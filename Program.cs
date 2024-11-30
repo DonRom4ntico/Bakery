@@ -56,17 +56,4 @@ using (var scope = app.Services.CreateScope())
     await DatabaseInitializer.SeedDataAsync(userManager, roleManager);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 app.Run();
