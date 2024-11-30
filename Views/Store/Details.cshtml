@@ -1,0 +1,38 @@
+﻿@model Product
+@{
+}
+
+
+<div class="row">
+	<div class="bg-default d-flex justify-content-center align-items-center rounded-3 col-md-4 text-center">
+		<img src="/products/@Model.ImageFileName" class="img-fluid mb-3" alt="..." width="250"/>
+	</div>
+	<div class="col-md-8">
+		<h1 class="font-moserrat  mb-3">@Model.Name</h1>
+		<h3 class="font-moserrat  mb-3">@(Model.Price)$</h3>
+		<button type="button" class="font-moserrat text-white btn btn-warning btn-sm">
+			Add to Cart <i class="bi bi-cart4"> </i>
+		</button>
+
+		<hr />
+
+		<div class="row mb-3">
+			<div class="font-moserrat col-sm-3 fw-bold">
+				Brand
+				@Model.Brand
+			</div>
+		</div>
+
+		<div class="row mb-3">
+			<div class="font-moserrat col-sm-3 fw-bold">
+				Category
+				@Model.Category
+			</div>
+		</div>
+
+		<div class="font-moserrat fw-bold">Description</div>
+		<div class="font-moserrat" style="white-space: pre-line">@Model.Description</div>
+
+	</div>
+
+</div>

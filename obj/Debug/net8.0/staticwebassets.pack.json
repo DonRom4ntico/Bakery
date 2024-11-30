@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\images\\bakershat.jpg",
+      "PackagePath": "staticwebassets\\images\\bakershat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\images\\breads.png",
+      "PackagePath": "staticwebassets\\images\\breads.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\images\\icon.jpg",
+      "PackagePath": "staticwebassets\\images\\icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\images\\mhmmmmmmmmmmmm.jpg",
+      "PackagePath": "staticwebassets\\images\\mhmmmmmmmmmmmm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\images\\wallpaper-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\wallpaper-removebg-preview.png"
+    },
+    {
       "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -245,10 +265,6 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\1111111.png",
-      "PackagePath": "staticwebassets\\products\\1111111.png"
-    },
-    {
       "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\2024112402292854.jpg",
       "PackagePath": "staticwebassets\\products\\2024112402292854.jpg"
     },
@@ -277,8 +293,32 @@
       "PackagePath": "staticwebassets\\products\\2024112512380640.jpg"
     },
     {
-      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241125124354486.jpg",
-      "PackagePath": "staticwebassets\\products\\20241125124354486.jpg"
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092142340.png",
+      "PackagePath": "staticwebassets\\products\\20241127092142340.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092153127.png",
+      "PackagePath": "staticwebassets\\products\\20241127092153127.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092210047.png",
+      "PackagePath": "staticwebassets\\products\\20241127092210047.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092245801.png",
+      "PackagePath": "staticwebassets\\products\\20241127092245801.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092303781.png",
+      "PackagePath": "staticwebassets\\products\\20241127092303781.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092318674.png",
+      "PackagePath": "staticwebassets\\products\\20241127092318674.png"
+    },
+    {
+      "Id": "C:\\Users\\ANGELO CORONADO\\source\\repos\\CarlBakerzShop\\CarlBakerzShop\\wwwroot\\products\\20241127092333518.png",
+      "PackagePath": "staticwebassets\\products\\20241127092333518.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarlBakerzShop.Microsoft.AspNetCore.StaticWebAssets.props",

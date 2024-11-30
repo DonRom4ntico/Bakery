@@ -166,3 +166,5 @@ C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\obj\Debug\ne
 C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\obj\Debug\net8.0\CarlBakerzShop.pdb
 C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\obj\Debug\net8.0\CarlBakerzShop.genruntimeconfig.cache
 C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\obj\Debug\net8.0\ref\CarlBakerzShop.dll
+C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\obj\Debug\net8.0\CarlBakerzShop.sourcelink.json
+C:\Users\ANGELO CORONADO\source\repos\CarlBakerzShop\CarlBakerzShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
